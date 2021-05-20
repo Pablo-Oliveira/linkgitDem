@@ -1,3 +1,4 @@
 # linkgitDem
-- First git -> github
-1 - First push
+#1- First git -> github
+#2 - First push
+#3 - Edit on GitHub -> Git
